@@ -2,4 +2,4 @@
 #### Contact - +91-7838020998
 #### Linkedin - https://www.linkedin.com/in/iamtalvinder/
 
-I am working with Publicis Sapient in London as a Full Stack Developer. 
+I am working with Publicis Sapient as a Full Stack Developer. 
